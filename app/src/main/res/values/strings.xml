@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityExample</string>
+    <string name="btn_one">Primer Boton</string>
+    <string name="btn_two">Segundo Boton</string>
+</resources>
